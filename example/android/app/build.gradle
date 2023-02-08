@@ -24,7 +24,7 @@ android {
     defaultConfig {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.yourcompany.flutter_webview_plugin_example"
+        applicationId "biz.vedant.flutter_webview_plugin_example"
         minSdkVersion 16
     }
 
